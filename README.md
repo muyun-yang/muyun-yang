@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-🎓 **Columbia University** | M.S. in Computer Engineering (AI Systems) | 2026 – 2027  
-📫 联系我：yang2196837916@outlook.com| 💼 https://www.linkedin.com/in/muyun-yang-aab889400
+🎓 **Columbia University** | M.S. in Computer Engineering | 2026 – 2027  
+    **Zhejiang University of Technology** | Bachelor in Software Engineering | 2022 – 2026
+📫 联系我：yang2196837916@outlook.com | 💼 https://www.linkedin.com/in/muyun-yang-aab889400
 
 ⭐️ **欢迎浏览我的项目，也欢迎交流讨论！**
 <!--
