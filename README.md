@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🎓 **Columbia University** | M.S. in Computer Engineering (AI Systems) | 2026 – 2027  
+📫 联系我：yang2196837916@outlook.com| 💼 https://www.linkedin.com/in/muyun-yang-aab889400
+
+⭐️ **欢迎浏览我的项目，也欢迎交流讨论！**
 <!--
 **muyun-yang/muyun-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
